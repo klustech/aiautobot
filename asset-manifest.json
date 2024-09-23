@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aiautobot/static/css/main.e6c13ad2.css",
+    "main.js": "/aiautobot/static/js/main.1adbc00c.js",
+    "index.html": "/aiautobot/index.html",
+    "main.e6c13ad2.css.map": "/aiautobot/static/css/main.e6c13ad2.css.map",
+    "main.1adbc00c.js.map": "/aiautobot/static/js/main.1adbc00c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1adbc00c.js"
+  ]
+}
