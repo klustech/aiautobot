@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/aiautobot/static/js/main.d486fab9.js",
+    "main.js": "/aiautobot/static/js/main.95b470ef.js",
     "index.html": "/aiautobot/index.html",
-    "main.d486fab9.js.map": "/aiautobot/static/js/main.d486fab9.js.map"
+    "main.95b470ef.js.map": "/aiautobot/static/js/main.95b470ef.js.map"
   },
   "entrypoints": [
-    "static/js/main.d486fab9.js"
+    "static/js/main.95b470ef.js"
   ]
 }
